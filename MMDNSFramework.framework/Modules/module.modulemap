@@ -1,6 +1,0 @@
-framework module MMDNSFramework {
-  umbrella header "MMDNSFramework-umbrella.h"
-
-  export *
-  module * { export * }
-}
