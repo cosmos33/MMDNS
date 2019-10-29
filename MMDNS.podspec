@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
     s.name         = 'MMDNS'
     s.version      = '1.0.3'
-    s.author       = { 'wangxuefei' => 'wang.xuefei@immomo.com' }
+    s.author       = { 'wangxuefei' => '7945054@163.com' }
     s.homepage     = 'https://github.com/cosmos33/MMDNS.git'
     s.summary      = 'MMFaceCertification Frameworks'
     s.license      = { :type => 'MIT', :file => 'LICENSE' }
